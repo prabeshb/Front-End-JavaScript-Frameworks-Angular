@@ -1,5 +1,9 @@
 # ConFusion
 
+This project is created while learning Front-End javascript framework: Angular course in Coursera from The Hong Kong University of Science and Technology. 
+
+This course is taugh by ``Joesh K Muppala``, Associate Professor. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
 ## Development server
