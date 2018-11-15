@@ -11,6 +11,7 @@ import { Component } from '@angular/core';
 export const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'menu', component: MenuComponent },
+  { path: 'aboutus', component: AboutComponent },
   { path: 'dishdetail/:id' , component: DishdetailComponent },
   { path: 'contactus', component: ContactComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full' }
